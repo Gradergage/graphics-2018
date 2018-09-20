@@ -2,5 +2,5 @@
 Course uses [OpenCV](https://opencv.org/) library to perform some task
 
 ### Lab 1
-main task of it - finding the shift vectors on the shifted image
+Main task of it - finding the shift vectors on the shifted image
 
