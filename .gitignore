@@ -5,6 +5,7 @@
 
 # User-specific files
 *.suo
+*.jpg
 *.user
 *.userosscache
 *.sln.docstates
@@ -57,6 +58,9 @@ artifacts/
 StyleCopReport.xml
 
 # Files built by Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
 *_i.c
 *_p.c
 *_h.h
